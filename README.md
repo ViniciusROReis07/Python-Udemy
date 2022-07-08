@@ -1,4 +1,5 @@
-# Python-Udemy
+# Curso de Python 3 do Básico Ao Avançado (com projetos reais)
+
 Curso de python do Luiz Otavio de Mirada na plataforma Udemy 
 
 # Skills que busco desenvolver durante o curso
